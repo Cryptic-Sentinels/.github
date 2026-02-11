@@ -2,9 +2,7 @@
 
 **Building for Competitions. Training for Reality.**
 
-Cryptic-Sentinels is a collaborative coding team focused on designing and implementing
-high-performance software solutions. Our work is developed under competitive constraints
-and refined to operate reliably in real-world environments.
+Cryptic-Sentinels is a multidisciplinary collective of engineers, researchers, and designers committed to building high-performance solutions for real-world challenges. We operate in fast-paced, competitive environments where precision, innovation, and execution are essential.
 
 ---
 
